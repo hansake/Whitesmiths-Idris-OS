@@ -1,4 +1,4 @@
-Here are th files needed to install co-idris.
+Here are the files needed to install co-idris.
 
 I installed co-idris after installing MS-DOS 6.22 in an VirtualBox VM.
 
