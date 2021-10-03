@@ -54,7 +54,8 @@ Run
 Insert rawdsk_2.img when prompted for B:
 
 at the prompt:
- # sh -e Install idris.0 60000
+
+ \# sh -e Install idris.0 60000
 
 Insert CO-IDRIS_DOS_1.img when prompted for A:
 
@@ -88,11 +89,11 @@ Exit to DOS
 Make DIR, IDRIS.0 is now slightly larger than 30MB.
 
 Enter idris again
+
  C:\> idris -root idris.0
 
 When starting, idris complains about year > 1999, the date command was
 obviously never intended to survive into the next millennium.
-
 
 \# quit
 
