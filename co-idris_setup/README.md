@@ -70,21 +70,21 @@ The script exits to DOS, start idris
 
  C:\>idris -root idris.0
 
- # Copy
+ \# Copy
 
 Insert rawdsk_3.img when prompted for A:
 
 When ready insert rawdsk_4.img
- # Copy
+ \# Copy
 
 When ready insert rawdsk_5.img
  # Copy
 
 When ready insert rawdsk_6.img
- # Copy
+ \# Copy
 
 Exit to DOS
- # quit
+ \# quit
 
 Make DIR, IDRIS.0 is now slightly larger than 30MB.
 
