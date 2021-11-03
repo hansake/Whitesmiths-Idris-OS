@@ -8,4 +8,6 @@ I recently found some old diskettes with the CO-IDRIS operating system version 2
 I have created a virtual machine in VirtualBox running CO-IDRIS on MS-DOS from some very dusty old diskettes.
 The VirtualBox I am using runs on a Linux Mint machine, but I expect that it may also run under Windows.
 
+I have made an image of CO-IDRIS with MS-DOS 6.22 running in QEMU.
+
 I have also scanned parts of the comprehensive set of manuals that were shippped with the Idris operating system.
